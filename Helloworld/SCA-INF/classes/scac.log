@@ -1,0 +1,24 @@
+Jul 22, 2016 11:59:04 AM oracle.mds
+NOTIFICATION: PManager instance is created without multitenancy support as JVM flag "oracle.multitenant.enabled" is not set to enable multitenancy support.
+Jul 22, 2016 11:59:04 AM oracle.security.jps.internal.config.xml.XmlConfigurationFactory initDefaultConfiguration
+SEVERE: java.io.FileNotFoundException: .\config\jps-config.xml (The system cannot find the path specified)
+Jul 22, 2016 11:59:04 AM oracle.mds
+NOTIFICATION: Auditing is disabled for component MDS.
+Jul 22, 2016 11:59:05 AM oracle.fabric.common.wsdl.SchemaManager isIncrementalBuildSupported
+INFO: XMLSchema incremental build enabled.
+Jul 22, 2016 11:59:05 AM com.collaxa.cube.CubeLogger info
+INFO: validating "BPELProcess1.bpel" ...
+Jul 22, 2016 11:59:05 AM oracle.integration.platform.blocks.FabricConfigManager <clinit>
+WARNING: JRF is unable to determine the current application server platform.
+Jul 22, 2016 11:59:05 AM oracle.integration.platform.blocks.WLSPlatformConfigurationProvider <clinit>
+WARNING: JRF is unable to determine the current application server platform.
+Jul 22, 2016 11:59:05 AM com.collaxa.cube.CubeLogger info
+INFO: Composed "BPELProcess1" in 186.4 milliseconds [nodes 6=0+6, 32.2 nodes/sec]
+Jul 22, 2016 11:59:07 AM com.collaxa.cube.CubeLogger info
+INFO: Compiled "BPELProcess1" in 2.157 seconds
+Jul 22, 2016 11:59:07 AM com.collaxa.cube.CubeLogger info
+INFO: Gathered 3 files in 0.7 milliseconds
+
+Jul 22, 2016 11:59:07 AM com.collaxa.cube.CubeLogger info
+INFO: Packaged "BPELProcess1" in 20.2 milliseconds
+
